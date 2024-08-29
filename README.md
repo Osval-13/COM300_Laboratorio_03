@@ -1,2 +1,2 @@
 # COM300_Laboratorio_03
-Laboratorio N°3
+Trabajo de Laboratorio de la materia COM300 (Inteligencia Artificial 1)
